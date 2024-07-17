@@ -1,5 +1,5 @@
 # 💫 About Me: <p align="end">
-  <img src="https://komarev.com/ghpvc/?username=inehalbabu&color=dc143c&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=kanchasohail&color=dc143c&style=for-the-badge" alt="Profile views">
 </p>
 🌱 I’m currently learning to write most efficient apps with Android Jetpack Compose<br>💬 Ask me about App Development<br>⚡ Fun fact I sleep too much 🥱
 
