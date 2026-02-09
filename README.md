@@ -1,6 +1,6 @@
 # 💫 About Me: <p align="end">
 </p>
-🌱 I’m currently learning to write Kotlin & Android Jetpack Compose <br>💬 Ask me about App Development<br>⚡ Fun fact I sleep too much 🥱
+🌱 I’m currently learning Mobile App Development with Kotlin & Jetpack Compose <br>💬 Ask me about App Development<br>⚡ Fun fact I sleep too much 🥱
 
 
 ## 🌐 Socials:
